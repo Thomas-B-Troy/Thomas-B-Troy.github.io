@@ -1,0 +1,10 @@
+# thomas-troy.com — crawling policy
+# All crawlers welcome, including AI crawlers (GPTBot, CCBot, Google-Extended,
+# ClaudeBot, PerplexityBot, etc.). This site exists to be found: it is a
+# public professional profile, and discoverability through search engines
+# and AI tools is deliberate.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://thomas-troy.com/sitemap.xml
